@@ -161,11 +161,6 @@ Technologies include:
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
-## 🔧 Tools & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
