@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hey, I'm Antony Ezes
 
-<!--
-**iamezes/iamezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer • Systems & Networks • Cloud • AI
 
-Here are some ideas to get you started:
+Building useful web, mobile and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇨🇬 Congo-Brazzaville · 🇫🇷 France
+
+[Portfolio] [GitHub]
+
+------------------------------------------------
+
+👨🏾‍💻 ABOUT ME
+
+🚀 FEATURED PROJECTS
+
+🟠 Dada               💼 JobFlow AI
+Marketplace            Recruitment + AI
+
+⚽ OneSport             🔐 Systems & Networks
+
+------------------------------------------------
+
+🛠️ TECH STACK
+
+TypeScript React Next.js Node Python
+React Native Flutter
+Azure Docker Terraform Linux
+Supabase PostgreSQL
+
+------------------------------------------------
+
+📊 GITHUB STATISTICS
+
+[ Stats ] [ Languages ]
+
+🔥 GitHub Streak
+
+📈 Contribution Activity
