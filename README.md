@@ -161,6 +161,8 @@ Technologies include:
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+## 🔧 Tools & AI
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
@@ -168,6 +170,7 @@ Technologies include:
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 ---
 
